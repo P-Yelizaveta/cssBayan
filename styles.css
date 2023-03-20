@@ -1,0 +1,29 @@
+body,header{
+    background-color:rgb(220, 243, 244);
+    max-width: 60vw;
+    margin:auto
+}
+
+.mem{
+    display: block;
+    margin:auto;
+    display: none;
+    
+}
+
+.card{
+    margin-bottom: 19.920px;
+}
+
+
+
+main:hover{
+    cursor: pointer;
+    color: rgb(150, 127, 255);
+   
+}
+
+.card:hover .mem {
+    display:flex;
+}
+
